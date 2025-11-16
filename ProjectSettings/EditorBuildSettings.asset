@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: a1d937518d39bc84bad115fb7b762de8
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/VisualScene.unity
+    guid: 84638a61628a829459cb3a2eb16bce3e
+  - enabled: 1
+    path: Assets/Scenes/LatihanScene.unity
+    guid: d02ed46e569e8c940b68ef66fda546ac
+  - enabled: 1
+    path: Assets/Scenes/hitungkubus.unity
+    guid: 0f497113c89c23e468a530aeab725543
+  - enabled: 1
+    path: Assets/Scenes/volumekubus.unity
+    guid: 62c8abb2d06d11f4dbf676a596f56661
+  - enabled: 1
+    path: Assets/Scenes/luasBalok.unity
+    guid: 9f41a8073e3979c4cbacb834bf693644
+  - enabled: 1
+    path: Assets/Scenes/volumebalok.unity
+    guid: f4bf909a75e640a4a9cbb0eb34c82782
+  - enabled: 1
+    path: Assets/Scenes/luasLimas.unity
+    guid: fab046dad96d9d54797595c658dfc7e8
+  - enabled: 1
+    path: Assets/Scenes/volumeLimas.unity
+    guid: b6e693d6da3447a44b7cf1a334ef1981
+  - enabled: 1
+    path: Assets/Scenes/luasTabung.unity
+    guid: 349f758e5bd0e6f46859aab4fe93e117
+  - enabled: 1
+    path: Assets/Scenes/volumeTabung.unity
+    guid: 4145a92549330a543893827c2c00c818
+  - enabled: 1
+    path: Assets/Scenes/luasBola.unity
+    guid: 652908d3251a25b4f92dde8f776ab6dd
+  - enabled: 1
+    path: Assets/Scenes/volumeBOLA.unity
+    guid: 82b98fd695f81e844a4dfe8e17319c62
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1e925342f0459ea46b40eeb9c4bf3d98, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 4ab2082ca40c1e044aae9f4007a17ea7, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 75bfb6587fb3eb94ba5c0a09bf2d82af, type: 2}
